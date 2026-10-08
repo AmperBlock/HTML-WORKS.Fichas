@@ -1,0 +1,27 @@
+body{
+    background-color:dimgray;
+}
+form{
+    color: rgb(0, 0, 0);
+    font-family: serif;
+    width: 150%;height: 150%;
+}
+input{
+    width: 15.5%;
+    padding: 10px 50px;
+    background-color: bisque;
+}
+text{
+    width: 150%;
+    height: 150%;
+}
+#four{
+    width: 2%;
+    padding: 5px 5px;
+}
+hr{
+    padding: 60px 100%;
+}
+#box{
+    
+}
